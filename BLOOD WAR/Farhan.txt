@@ -1,0 +1,1 @@
+{"player": "farhan", "length_enemies": 1, "score": 30, "char_x": 100.0, "char_y": 500.0, "enemies_coords": [[283.1143658507624, 298.1329581283776]], "char_choice": 2}

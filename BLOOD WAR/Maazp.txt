@@ -1,0 +1,1 @@
+{"player": "Maazp", "length_enemies": 1, "score": 10, "char_x": 100.0, "char_y": 500.0, "enemies_coords": [[100.4018195964999, 499.93324821035344]], "char_choice": 2}
